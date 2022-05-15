@@ -1,4 +1,5 @@
 # typinggamepractice
+自己学習のためタイピングゲームを実装してみる
 
 ## Project setup
 ```
