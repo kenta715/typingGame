@@ -1,7 +1,6 @@
 <template>
   <h1 class="title">Typing Game</h1>
   <div v-if="!isPlay">いずれかのキーを押したらスタート！</div>
-  <!-- <button @click="startGame">スタート</button> -->
   <div v-if="isPlay">
     <div class="timer">
       <div class="time">
